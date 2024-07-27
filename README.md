@@ -12,4 +12,4 @@ Program can be used like so
 python main.py <input-file> [output-file] [language-code] [model] # no argparser, sorry
 ```
 
-For model choices, see [available whisper models](https://github.com/openai/whisper?tab=readme-ov-file#available-models-and-languages).
+For model choices, see [available whisper models](https://github.com/openai/whisper?tab=readme-ov-file#available-models-and-languages). Be mindful of how much memory is available on your system.
